@@ -82,16 +82,13 @@ git clone https://github.com/hxycindyhxy/ColorPop.git
 <br>
 
 ### 🧠 What I Learned
-* 🎙 Storytelling for User-Centered Design
-* 
+* 🎙 Storytelling for User-Centered Design: 
 I learned how to frame a real-world frustration — searching for matching color palettes — into a compelling story that guided our design choices and helped clarify the app's purpose from the user's point of view.
 
-* 🤝 Teamwork and Collaborative Problem Solving
-* 
+* 🤝 Teamwork and Collaborative Problem Solving: 
 Working closely with team members, we brainstormed around a shared problem and transformed it into an intuitive, easy-to-use app. It strengthened my ability to communicate ideas, divide responsibilities, and align on user experience goals.
 
-* ⏱ Time and Project Management Under Pressure
-* 
+* ⏱ Time and Project Management Under Pressure: 
 With just one day to complete the project from idea to working prototype, I improved how I scope features, prioritize tasks, and adapt quickly. We split responsibilities efficiently, which taught me how to balance speed with quality in a fast-paced environment.
 
 <br>
